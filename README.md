@@ -8,4 +8,4 @@ Settings input to the program are via two JSON files, and the program runs indef
 
 ## Files
 
-The main class can be found within [emailscheduler/Main.java](emailscheduler/Main.java).
+The main class can be found within [emailscheduler/Main.java](emailscheduler/Main.java), which utilises the classes found within [emailscheduler/lib](emailscheduler/lib).
